@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+
+body {
+    background-color: #130804;
+    background-image: url(imagens/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Tangerine', cursive, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    color: #CE8620;
+       
+}
+
+.navbar-dark {
+    background-color: #130804cc;
+    border: 1px solid #130804;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #CE8620;
+    
+  }
+
+#navbarNav a:hover {
+    text-shadow: 5px 5px 5px #CE8620;
+    text-decoration: none;
+    color: #b85b0f;
+}
+
+.container {
+    background-color: #130804cc;
+    margin-top: 150px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+#logo {
+    margin-left: 70px;
+}
+
+.nav-item {
+    padding-right: 50px;
+}
+
+.card {
+    background-color: #130804cc;
+    border: 1px solid #4e2f02d7 ;
+} 
+ 
+.contato {
+    
+    background-color: #130804d2;
+    text-align: center;
+    margin: 80px;
+    padding: 20px;
+    
+}
+
+.maps {
+    height: 140px;
+    width: 120px;
+    }
+
+footer {
+    background-color: #130804da;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #130804;
+   
+}
+
+.linkedin {
+    height: 40px;
+    width: 40px;
+    margin: 6px;
+}
+
+.github {
+    height: 35px;
+    width: 35px;
+    margin: 8px;
+}
+
+
+
